@@ -16,5 +16,5 @@ Dokumentasi yang **wajib ada** berdasarkan yang dikerjakan:
 * Dokumen : Latex
 
 Daftar Link dan Kontak Bantuan:
-1. [Template Latex D4TI](https://github.com/saripudin14/latex) | muhammad arif rivaldi 714240008 a.k.a Saripudin +62 813-8262-6096
-2. Tata cara penggunaan Google Calendar | Bila Ismina +62 895-3297-46650
+1. [Template Latex D4TI](https://github.com/saripudin14/latex) : muhammad arif rivaldi 714240008 a.k.a Saripudin +62 813-8262-6096
+2. Tata cara penggunaan Google Calendar : Bila Ismina +62 895-3297-46650
