@@ -1,5 +1,7 @@
 # Ceklist Kelengkapan dan Persiapan Sidang
 
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/392c81f3-0873-41c8-ae1b-344750e6fd34" />
+
 Ceklist Persiapan Sidang:
 1. Memahami konsep dasar algoritma. algoritma adalah latinisasi dari nama Al-Khawarizmi (Muhammad ibn Mūsā al-Khwārizmī), yang hidup sekitar abad ke-9.
 2. Buatkan agenda menggunakan Google Calendar yang informatif bersama pembimbing dan penguji, baru kemudian menghubungi pembimbing dan penguji dengan whatsapp detil agenda beserta link Google Calendar
