@@ -21,3 +21,4 @@ Daftar Link dan Kontak Bantuan:
 1. [Template Latex D4TI](https://github.com/saripudin14/latex) : muhammad arif rivaldi 714240008 a.k.a Saripudin +62 813-8262-6096
 2. [Tata cara penggunaan Google Calendar](https://github.com/IsmiNabilah345/GoogleCalender/blob/main/GoogleCalender.md) : Bila Ismina +62 895-3297-46650
 3. Tata cara penggunaan [Parsifal](https://parsif.al/awangga/) : Balqis dan Sindi +62 851-5957-7009 - +62 831-9580-0022
+4. Tata cara development, deployment, CI/CD menggunakan git SCM : Bagas +62 851-7993-5117
